@@ -1,2 +1,2 @@
 # TestRepoPublic
-## This is just a repository for testing purposes
+## This is just a public repository for testing purposes
